@@ -1,0 +1,44 @@
+{
+  "id": "4443269",
+  "name": "情侣飞行棋",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1903538",
+      "name": "头像 女孩",
+      "font_class": "icon-test",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1904003",
+      "name": "头像 男孩",
+      "font_class": "icon-test1",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "23118564",
+      "name": "男孩",
+      "font_class": "nanhai",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "23118565",
+      "name": "女孩",
+      "font_class": "nvhai",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "24810941",
+      "name": "旗",
+      "font_class": "qi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    }
+  ]
+}
